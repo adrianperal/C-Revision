@@ -1,0 +1,16 @@
+/home/adrip/Coding/dotNet/Revision/bin/Debug/net5.0/Revision
+/home/adrip/Coding/dotNet/Revision/bin/Debug/net5.0/Revision.deps.json
+/home/adrip/Coding/dotNet/Revision/bin/Debug/net5.0/Revision.runtimeconfig.json
+/home/adrip/Coding/dotNet/Revision/bin/Debug/net5.0/Revision.runtimeconfig.dev.json
+/home/adrip/Coding/dotNet/Revision/bin/Debug/net5.0/Revision.dll
+/home/adrip/Coding/dotNet/Revision/bin/Debug/net5.0/ref/Revision.dll
+/home/adrip/Coding/dotNet/Revision/bin/Debug/net5.0/Revision.pdb
+/home/adrip/Coding/dotNet/Revision/obj/Debug/net5.0/Revision.csproj.AssemblyReference.cache
+/home/adrip/Coding/dotNet/Revision/obj/Debug/net5.0/Revision.GeneratedMSBuildEditorConfig.editorconfig
+/home/adrip/Coding/dotNet/Revision/obj/Debug/net5.0/Revision.AssemblyInfoInputs.cache
+/home/adrip/Coding/dotNet/Revision/obj/Debug/net5.0/Revision.AssemblyInfo.cs
+/home/adrip/Coding/dotNet/Revision/obj/Debug/net5.0/Revision.csproj.CoreCompileInputs.cache
+/home/adrip/Coding/dotNet/Revision/obj/Debug/net5.0/Revision.dll
+/home/adrip/Coding/dotNet/Revision/obj/Debug/net5.0/ref/Revision.dll
+/home/adrip/Coding/dotNet/Revision/obj/Debug/net5.0/Revision.pdb
+/home/adrip/Coding/dotNet/Revision/obj/Debug/net5.0/Revision.genruntimeconfig.cache
